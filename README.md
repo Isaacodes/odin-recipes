@@ -11,4 +11,4 @@ I included unordered lists ```<ul>``` for ingredients.
 
 I included ordered lists ```<ol>``` for recipe directions.
 
-Additionally, I made use of frequent git commits and comments to ensure the project is easily accessible for future use and modification.
+Additionally, I made use of frequent git commits and comments to ensure the project is easily accessible for future use and modification. I attempted to follow industry standards at every turn.
